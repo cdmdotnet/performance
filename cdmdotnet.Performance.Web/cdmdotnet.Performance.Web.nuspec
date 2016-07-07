@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>cdmdotnet.Performance.Web</id>
+		<version>$version$</version>
+		<authors>cdmdotnet Limited</authors>
+		<!--
+		<licenseUrl>https://raw.github.com/gautema/CQRSlite/master/README.md</licenseUrl>
+		<projectUrl>https://github.com/gautema/cqrslite</projectUrl>
+		-->
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<copyright>Copyright 2015</copyright>
+		<description>cdmdotnet.Performance.Web</description>
+		<dependencies>
+			<dependency id="cdmdotnet.Performance" version="[$version$]" />
+		</dependencies>
+	</metadata>
+</package>
